@@ -10,7 +10,6 @@ Includes:
 * [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html) config file
 * [CPM.cmake](https://github.com/cpm-cmake/CPM.cmake)
 
-
 # C++ Resources
 
 * Microsoft
